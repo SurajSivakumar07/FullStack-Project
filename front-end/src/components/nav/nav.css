@@ -1,0 +1,38 @@
+.nav-wrap  ul{
+    display: flex;
+    justify-content: center;
+}
+.nav-wrap {
+    border-bottom: 2px solid black;
+    margin-bottom: 20px;
+}
+
+.nav-wrap li{
+    margin-left: 10px;
+    list-style: none;
+
+}
+.nav-wrap a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: cursive;
+    text-transform: uppercase;
+
+}
+
+.shoes-wrap img{
+    width: 500px;
+    height: 500px;
+}
+.shoes-wrap{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+ 
+span{
+    font-family: cursive;
+    text-transform: uppercase;
+
+}
